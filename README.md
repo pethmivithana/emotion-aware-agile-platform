@@ -1,1 +1,0 @@
-# emotion-aware-agile-platform
